@@ -12,7 +12,6 @@ The model is trained on real historical gold data and produces both:
 - **Interactive forecasts** (displayed in Jupyter Notebook)
 - **Exportable forecast reports** (Excel + HTML)
 
----
 
 ## 🌟 Features
 
