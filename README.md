@@ -67,9 +67,8 @@ https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1nmhNZjwIaXYH71xnaM
 ## 🧑‍💻 Author
 
 **Your Name**  
-📧 Email: [your.email@example.com]  
-🌐 GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+📧 Email: [theexcelbee@gmail.com]  
+🔗 LinkedIn: [linkedin.com/in/tushar-dhumal](https://linkedin.com/in/tushar-dhumal)
 
 
 ## ⭐ Contribute & Support
@@ -78,7 +77,3 @@ If you found this project helpful:
 - ⭐ **Star** the repository  
 - 🐛 Submit issues or suggestions  
 - 🤝 Pull requests are welcome  
-
-
-### 🏁 License
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
