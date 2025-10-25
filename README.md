@@ -1,10 +1,5 @@
 # 🪙 Gold Price Forecasting using Prophet
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
-[![Prophet](https://img.shields.io/badge/Forecasting-Prophet-success?logo=meta)](https://facebook.github.io/prophet/)
-[![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange?logo=plotly)](https://plotly.com/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
-
 Forecasting gold prices with **Meta’s Prophet** — a powerful time-series model — and visualizing future trends through **interactive Plotly charts**.  
 This project also includes exporting forecast results to **Excel (.xlsx)** and **HTML dashboards**, making it ideal for financial analysis and reporting.
 
@@ -55,71 +50,13 @@ Gold-Rate-Prediction/
 
 ---
 
-## ⚙️ Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/mrdhumaltushar/Gold-Rate-Prediction.git
-cd Gold-Rate-Prediction
-```
-
-### 2️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ (Optional) Launch Jupyter Notebook
-```bash
-jupyter notebook
-```
-
----
-
-## 🚀 Usage
-
-### 🧠 Option 1: Interactive Forecast in Jupyter Notebook
-Open:
-```
-notebooks/Gold_Price_Prediction.ipynb
-```
-
-Run all cells to:
-- Load and prepare the dataset  
-- Train the Prophet model  
-- Visualize an **interactive forecast chart** inside the notebook  
-
-### 💼 Option 2: Export Forecast to Excel & HTML
-Run from terminal:
-```bash
-python scripts/gold_forecast_export.py
-```
-
-This will generate:
-- `results/Gold_Price_Forecast.xlsx` — Excel sheet with forecast data  
-- `results/Gold_Price_Forecast.html` — Interactive dashboard  
-
+## ⚙️ Click Here To Learn How To Make Predictive Model
+🔗 Predictive Model: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.theexcelbee.com/2025/10/how-to-build-gold-prediction-model-with.html)
 ---
 
 ## 📊 Example Output
 
-**Forecast Chart (Sample Preview)**
-
-![Forecast Example](https://user-images.githubusercontent.com/your-image-link-here.png)
-
-The interactive Plotly chart allows zooming, panning, and hovering over forecasted gold price values.
-
----
-
-## 🧩 Technologies Used
-
-| Category | Library / Tool | Purpose |
-|-----------|----------------|----------|
-| Data Handling | `pandas` | Loading and processing CSV data |
-| Forecasting | `prophet` | Building and training the time-series model |
-| Visualization | `plotly` | Interactive charts |
-| Exporting | `xlsxwriter` | Writing Excel files |
-
----
+![Forecast Example]([https://user-images.githubusercontent.com/your-image-link-here.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1nmhNZjwIaXYH71xnaMRwObmU0Vz5umuGqk7Hk7WklM-GCVf9Tb0KrgCWPl6kHKrGsLeOQM-uZaSrYBIR-NuVV4E7-zgepI2a2ijGpsqOK_zueyEW1Uh3IDtdubmWix34EbzPZgYOxZcJfXhRSNk-LIN_zz0hJkym8kKa-JKgdTqjIyandjG93iHCmE/s1600/Screenshot%202025-10-23%20163618.png))
 
 ## ⚠️ Disclaimer
 
