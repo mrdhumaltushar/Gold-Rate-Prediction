@@ -49,11 +49,11 @@ Gold-Rate-Prediction/
 
 ## ⚙️ Click Here To Learn How To Make Predictive Model
 
-🔗 Predictive Model: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.theexcelbee.com/2025/10/how-to-build-gold-prediction-model-with.html)
+🔗 Predictive Model: https://www.theexcelbee.com/2025/10/how-to-build-gold-prediction-model-with.html
 
 ## 📊 Example Output
 
-![Forecast Example]([https://user-images.githubusercontent.com/your-image-link-here.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1nmhNZjwIaXYH71xnaMRwObmU0Vz5umuGqk7Hk7WklM-GCVf9Tb0KrgCWPl6kHKrGsLeOQM-uZaSrYBIR-NuVV4E7-zgepI2a2ijGpsqOK_zueyEW1Uh3IDtdubmWix34EbzPZgYOxZcJfXhRSNk-LIN_zz0hJkym8kKa-JKgdTqjIyandjG93iHCmE/s1600/Screenshot%202025-10-23%20163618.png))
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1nmhNZjwIaXYH71xnaMRwObmU0Vz5umuGqk7Hk7WklM-GCVf9Tb0KrgCWPl6kHKrGsLeOQM-uZaSrYBIR-NuVV4E7-zgepI2a2ijGpsqOK_zueyEW1Uh3IDtdubmWix34EbzPZgYOxZcJfXhRSNk-LIN_zz0hJkym8kKa-JKgdTqjIyandjG93iHCmE/s1600/Screenshot%202025-10-23%20163618.png
 
 ## ⚠️ Disclaimer
 
