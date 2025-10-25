@@ -46,7 +46,6 @@ Gold-Rate-Prediction/
 └── .gitignore                               # Ignore unnecessary files
 ```
 
----
 
 ## ⚙️ Click Here To Learn How To Make Predictive Model
 
@@ -63,7 +62,7 @@ Gold-Rate-Prediction/
 > Forecasts are based on **historical data** and **statistical modeling**, and do **not guarantee** future financial outcomes.  
 > Always conduct independent research before making investment decisions.
 
----
+
 
 ## 🧑‍💻 Author
 
@@ -72,7 +71,6 @@ Gold-Rate-Prediction/
 🌐 GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
----
 
 ## ⭐ Contribute & Support
 
@@ -81,7 +79,6 @@ If you found this project helpful:
 - 🐛 Submit issues or suggestions  
 - 🤝 Pull requests are welcome  
 
----
 
 ### 🏁 License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
