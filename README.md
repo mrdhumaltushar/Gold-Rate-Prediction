@@ -51,7 +51,8 @@ Gold-Rate-Prediction/
 
 🔗 Predictive Model: https://www.theexcelbee.com/2025/10/how-to-build-gold-prediction-model-with.html
 
-## 📊 Example Output
+
+## 📊 Output
 
 ![Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1nmhNZjwIaXYH71xnaMRwObmU0Vz5umuGqk7Hk7WklM-GCVf9Tb0KrgCWPl6kHKrGsLeOQM-uZaSrYBIR-NuVV4E7-zgepI2a2ijGpsqOK_zueyEW1Uh3IDtdubmWix34EbzPZgYOxZcJfXhRSNk-LIN_zz0hJkym8kKa-JKgdTqjIyandjG93iHCmE/s1600/Screenshot%202025-10-23%20163618.png)
 
