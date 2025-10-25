@@ -59,7 +59,6 @@ Gold-Rate-Prediction/
 
 ## ⚠️ Disclaimer
 
-> ⚠️ **Note:**  
 > This project is for **educational and research purposes only**.  
 > Forecasts are based on **historical data** and **statistical modeling**, and do **not guarantee** future financial outcomes.  
 > Always conduct independent research before making investment decisions.
@@ -68,7 +67,7 @@ Gold-Rate-Prediction/
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**TUSHAR DHUMAL**  
 📧 Email: [theexcelbee@gmail.com]  
 🔗 LinkedIn: [linkedin.com/in/tushar-dhumal](https://linkedin.com/in/tushar-dhumal)
 
