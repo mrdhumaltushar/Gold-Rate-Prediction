@@ -8,20 +8,6 @@
 Forecasting gold prices with **Meta’s Prophet** — a powerful time-series model — and visualizing future trends through **interactive Plotly charts**.  
 This project also includes exporting forecast results to **Excel (.xlsx)** and **HTML dashboards**, making it ideal for financial analysis and reporting.
 
----
-
-## 📘 Table of Contents
-1. [Overview](#-overview)
-2. [Features](#-features)
-3. [Project Structure](#-project-structure)
-4. [Installation](#-installation)
-5. [Usage](#-usage)
-6. [Example Output](#-example-output)
-7. [Disclaimer](#-disclaimer)
-8. [Author](#-author)
-
----
-
 ## 📖 Overview
 
 Predicting gold prices is essential for **investors**, **economists**, and **financial analysts**.  
@@ -46,7 +32,7 @@ The model is trained on real historical gold data and produces both:
 ## 🗂️ Project Structure
 
 ```
-gold-price-forecast-prophet/
+Gold-Rate-Prediction/
 │
 ├── data/
 │   └── XAU USD Gold Price.csv              # Historical dataset
@@ -73,8 +59,8 @@ gold-price-forecast-prophet/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/gold-price-forecast-prophet.git
-cd gold-price-forecast-prophet
+git clone https://github.com/mrdhumaltushar/Gold-Rate-Prediction.git
+cd Gold-Rate-Prediction
 ```
 
 ### 2️⃣ Install dependencies
