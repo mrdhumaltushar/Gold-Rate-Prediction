@@ -1,4 +1,4 @@
-# 🪙 Gold Price Forecasting using Prophet
+# 🪙 How To Build Gold Price Forecasting Model using Prophet
 
 Forecasting gold prices with **Meta’s Prophet** — a powerful time-series model — and visualizing future trends through **interactive Plotly charts**.  
 This project also includes exporting forecast results to **Excel (.xlsx)** and **HTML dashboards**, making it ideal for financial analysis and reporting.
