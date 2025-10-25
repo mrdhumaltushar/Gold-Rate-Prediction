@@ -21,7 +21,6 @@ The model is trained on real historical gold data and produces both:
 ✅ Export forecast results to **Excel (.xlsx)** and **HTML dashboard**  
 ✅ Clean, modular, and reusable Python code  
 
----
 
 ## 🗂️ Project Structure
 
@@ -50,8 +49,8 @@ Gold-Rate-Prediction/
 ---
 
 ## ⚙️ Click Here To Learn How To Make Predictive Model
+
 🔗 Predictive Model: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.theexcelbee.com/2025/10/how-to-build-gold-prediction-model-with.html)
----
 
 ## 📊 Example Output
 
